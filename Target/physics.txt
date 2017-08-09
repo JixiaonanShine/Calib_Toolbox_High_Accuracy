@@ -1,0 +1,7 @@
+the map origin.jpg  dpi equal to 254 
+that means every 10 pix equal to 1mm
+
+Y direction 3740 pix  374mm  
+X direction 2510 pix  251mm   
+
+origin map size 4140*2910 pix. physics length 414mm * 291mm
