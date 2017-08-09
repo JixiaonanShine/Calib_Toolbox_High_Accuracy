@@ -1,5 +1,13 @@
 # High accuracy Calib_toolbox
 origin from [Jean-Yves Bouguet](http://www.vision.caltech.edu/bouguetj/calib_doc/)
+changed by [eros.wade](https://eroswade.github.io/) 
+licese by MIT
+
+If you have any question/suggestion/bug report please send me email at
+sjlou1126@163.com
+
+Eros.Wade
+2017.08.09
 
 ## accurate
 it's about 2% Z direction and 0.2% x,y direction accuracy.
